@@ -19,3 +19,8 @@ body {
 h1, strong {
   font-weight: 700;
 }
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
